@@ -1,0 +1,22 @@
+.footer {
+  background-color: black;
+  height:150px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  color:whitesmoke;
+  padding:10px;
+}
+
+.links {
+  text-align: center;
+}
+
+.links > a > i {
+  font-size: 40px;
+  color:turquoise;
+}
+
+.fa-star {
+  color:tomato;
+}
